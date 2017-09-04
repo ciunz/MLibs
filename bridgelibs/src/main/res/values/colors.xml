@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#484654</color>
+    <color name="colorPrimaryDark">#484654</color>
+    <color name="colorAccent">#4ba1e2</color>
+    <color name="colorAccent_pressed">#4088be</color>
+    <color name="text">#000000</color>
+    <!--<color name="text">#4c4c4c</color>-->
+    <color name="textSecondary">#9c9c9c</color>
+    <color name="divider">#40B6B6B6</color>
+    <color name="bg">#eeeeee</color>
+
+    <color name="textRed">#f45d64</color>
+    <color name="textRed_pressed">#e15258</color>
+    <color name="textBlue">#4ba1e2</color>
+    <color name="textBlue_pressed">#4291cc</color>
+    <color name="textBlueDark">#4788d2</color>
+    <color name="textBlueDark_pressed">#477fd2</color>
+    <color name="textGreen">#40c45f</color>
+    <color name="textLightblue">#59eff4</color>
+    <color name="fab_1">#4bcbe2</color>
+    <color name="fab_1_pressed">#46bdd2</color>
+    <color name="fab_2">#4be2cd</color>
+    <color name="fab_2_pressed">#45d1bd</color>
+    <color name="fab_3">#4be2a2</color>
+    <color name="fab_3_pressed">#45d195</color>
+    <color name="fab_4">#c0e55b</color>
+    <color name="fab_4_pressed">#b7da56</color>
+    <color name="fab_5">#e2d74b</color>
+    <color name="fab_5_pressed">#d7cd48</color>
+
+    <color name="bg_item_normal_state">#fff0f0f0</color>
+    <color name="bg_item_dragging_state">#ffffdddd</color>
+    <color name="bg_item_dragging_active_state">#ffff9999</color>
+    <color name="bg_group_item_normal_state">#ffddffdd</color>
+    <color name="bg_group_item_normal_pressed_state">#ff99cc99</color>
+</resources>

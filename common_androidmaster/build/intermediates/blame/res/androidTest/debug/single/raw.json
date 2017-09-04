@@ -1,0 +1,1914 @@
+[
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_athens",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_athens"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_vientiane",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_vientiane"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_helsinki",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_helsinki"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_tirane",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_tirane"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_el_aaiun",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_el_aaiun"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_johannesburg",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_johannesburg"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_beirut",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_beirut"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_lusaka",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_lusaka"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_sao_paulo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_sao_paulo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_thunder_bay",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_thunder_bay"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_wake",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_wake"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_manila",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_manila"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_chicago",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_chicago"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_colombo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_colombo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_buenos_aires",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_buenos_aires"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_pitcairn",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_pitcairn"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_guayaquil",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_guayaquil"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_creston",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_creston"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_san_luis",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_san_luis"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_makassar",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_makassar"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_belem",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_belem"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_stanley",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_stanley"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_fort_nelson",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_fort_nelson"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_metlakatla",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_metlakatla"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_tunis",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_tunis"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_adelaide",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_adelaide"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_davis",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_davis"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_madeira",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_madeira"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_gaborone",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_gaborone"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_bangkok",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_bangkok"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_lower_princes",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_lower_princes"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_qyzylorda",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_qyzylorda"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_havana",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_havana"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_est",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_est"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_guernsey",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_guernsey"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_warsaw",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_warsaw"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_srednekolymsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_srednekolymsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_lagos",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_lagos"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_kentucky_monticello",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_kentucky_monticello"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_chongqing",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_chongqing"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kabul",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kabul"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_petersburg",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_petersburg"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_sao_tome",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_sao_tome"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_brunei",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_brunei"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_winamac",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_winamac"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_brazzaville",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_brazzaville"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_samara",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_samara"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_paramaribo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_paramaribo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_tortola",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_tortola"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_hovd",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_hovd"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_luxembourg",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_luxembourg"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_riga",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_riga"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_vancouver",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_vancouver"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_isle_of_man",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_isle_of_man"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_montserrat",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_montserrat"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_vilnius",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_vilnius"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_maputo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_maputo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_macau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_macau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_menominee",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_menominee"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_amsterdam",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_amsterdam"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_guam",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_guam"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_san_marino",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_san_marino"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_jujuy",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_jujuy"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_uzhgorod",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_uzhgorod"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_araguaina",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_araguaina"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_guatemala",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_guatemala"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_rothera",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_rothera"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_yakutsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_yakutsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_darwin",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_darwin"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_kerguelen",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_kerguelen"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_palmer",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_palmer"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_dawson_creek",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_dawson_creek"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_taipei",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_taipei"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_mendoza",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_mendoza"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_niamey",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_niamey"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_cambridge_bay",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_cambridge_bay"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_hermosillo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_hermosillo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_canary",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_canary"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_grand_turk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_grand_turk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_efate",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_efate"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_enderbury",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_enderbury"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_juba",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_juba"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_blanc_sablon",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_blanc_sablon"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_aden",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_aden"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_ushuaia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_ushuaia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_gambier",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_gambier"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_mcmurdo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_mcmurdo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_broken_hill",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_broken_hill"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kolkata",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kolkata"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_ljubljana",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_ljubljana"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_azores",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_azores"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_johnston",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_johnston"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_rarotonga",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_rarotonga"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_sitka",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_sitka"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_st_lucia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_st_lucia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_mazatlan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_mazatlan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_dushanbe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_dushanbe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_dhaka",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_dhaka"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_reunion",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_reunion"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_belgrade",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_belgrade"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pst8pdt",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pst8pdt"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_resolute",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_resolute"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_cancun",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_cancun"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_nairobi",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_nairobi"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_fakaofo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_fakaofo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_zagreb",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_zagreb"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_detroit",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_detroit"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_oral",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_oral"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_bissau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_bissau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_chihuahua",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_chihuahua"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_boa_vista",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_boa_vista"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_lima",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_lima"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_miquelon",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_miquelon"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_swift_current",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_swift_current"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_godthab",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_godthab"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_tehran",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_tehran"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_tel_aviv",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_tel_aviv"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_st_helena",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_st_helena"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_hst",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_hst"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_vevay",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_vevay"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_rankin_inlet",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_rankin_inlet"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_moscow",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_moscow"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_maldives",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_maldives"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_asuncion",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_asuncion"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_thimphu",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_thimphu"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_bougainville",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_bougainville"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_jayapura",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_jayapura"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_st_thomas",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_st_thomas"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_salta",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_salta"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_majuro",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_majuro"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_wallis",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_wallis"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_podgorica",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_podgorica"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_hanoi",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_hanoi"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus10",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus10"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_dakar",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_dakar"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_istanbul",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_istanbul"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_madrid",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_madrid"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_porto_novo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_porto_novo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_khandyga",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_khandyga"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_krasnoyarsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_krasnoyarsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_sydney",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_sydney"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_goose_bay",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_goose_bay"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_zurich",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_zurich"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_matamoros",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_matamoros"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_tbilisi",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_tbilisi"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_lome",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_lome"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_new_york",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_new_york"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_indianapolis",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_indianapolis"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_knox",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_knox"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_martinique",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_martinique"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_abidjan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_abidjan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_dublin",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_dublin"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_puerto_rico",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_puerto_rico"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_san_juan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_san_juan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_nouakchott",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_nouakchott"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_thule",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_thule"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_north_dakota_new_salem",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_north_dakota_new_salem"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_blantyre",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_blantyre"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_st_barthelemy",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_st_barthelemy"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_busingen",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_busingen"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_dar_es_salaam",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_dar_es_salaam"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_montreal",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_montreal"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_cayman",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_cayman"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_kentucky_louisville",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_kentucky_louisville"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_costa_rica",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_costa_rica"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_anguilla",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_anguilla"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_la_paz",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_la_paz"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_adak",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_adak"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_niue",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_niue"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_phoenix",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_phoenix"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_khartoum",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_khartoum"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_uct",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_uct"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_cuiaba",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_cuiaba"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_damascus",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_damascus"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_volgograd",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_volgograd"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_mbabane",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_mbabane"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_vladivostok",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_vladivostok"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_bucharest",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_bucharest"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_irkutsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_irkutsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_mst7mdt",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_mst7mdt"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_tijuana",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_tijuana"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/gtm_analytics",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_vienna",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_vienna"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_brisbane",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_brisbane"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_nassau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_nassau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_berlin",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_berlin"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_cape_verde",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_cape_verde"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_guadalcanal",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_guadalcanal"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_eucla",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_eucla"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_asmara",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_asmara"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_monrovia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_monrovia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_faroe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_faroe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_vincennes",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_vincennes"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus11",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus11"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kuala_lumpur",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kuala_lumpur"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_bermuda",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_bermuda"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_est5edt",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_est5edt"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_qatar",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_qatar"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_rainy_river",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_rainy_river"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_dumontdurville",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_dumontdurville"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_santo_domingo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_santo_domingo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_kinshasa",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_kinshasa"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_porto_velho",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_porto_velho"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_norfolk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_norfolk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_luanda",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_luanda"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_monaco",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_monaco"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_karachi",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_karachi"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_minsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_minsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus12",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus12"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_aqtau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_aqtau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_mogadishu",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_mogadishu"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_simferopol",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_simferopol"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_monterrey",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_monterrey"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_ndjamena",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_ndjamena"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_managua",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_managua"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_tahiti",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_tahiti"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_nauru",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_nauru"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus9",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus9"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_kigali",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_kigali"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_antigua",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_antigua"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_kosrae",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_kosrae"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_kiritimati",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_kiritimati"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_moncton",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_moncton"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_wet",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_wet"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_sarajevo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_sarajevo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_guyana",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_guyana"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_choibalsan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_choibalsan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_novokuznetsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_novokuznetsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_tucuman",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_tucuman"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_saipan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_saipan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_el_salvador",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_el_salvador"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_9",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_9"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_phnom_penh",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_phnom_penh"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_yekaterinburg",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_yekaterinburg"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_winnipeg",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_winnipeg"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_anadyr",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_anadyr"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_amman",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_amman"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_noronha",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_noronha"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_syowa",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_syowa"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_barbados",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_barbados"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_tallinn",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_tallinn"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_zoneinfomap",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_zoneinfomap"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_kampala",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_kampala"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_regina",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_regina"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_hobart",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_hobart"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_dawson",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_dawson"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_anchorage",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_anchorage"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_tegucigalpa",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_tegucigalpa"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus7",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus7"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_tongatapu",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_tongatapu"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_seoul",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_seoul"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_marquesas",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_marquesas"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_mawson",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_mawson"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_montevideo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_montevideo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_accra",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_accra"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_los_angeles",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_los_angeles"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_maseru",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_maseru"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_harbin",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_harbin"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_currie",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_currie"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_pohnpei",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_pohnpei"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_halifax",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_halifax"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_ho_chi_minh",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_ho_chi_minh"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_ouagadougou",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_ouagadougou"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_samarkand",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_samarkand"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_pago_pago",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_pago_pago"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus8",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus8"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_bangui",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_bangui"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_tripoli",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_tripoli"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_lindeman",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_lindeman"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_rangoon",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_rangoon"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_djibouti",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_djibouti"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_kwajalein",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_kwajalein"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_sakhalin",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_sakhalin"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kashgar",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kashgar"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_santarem",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_santarem"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_istanbul",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_istanbul"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_nicosia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_nicosia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kuching",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kuching"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_chisinau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_chisinau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_casey",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_casey"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_apia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_apia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_dubai",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_dubai"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_jamaica",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_jamaica"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_addis_ababa",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_addis_ababa"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_andorra",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_andorra"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_chungking",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_chungking"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus5",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus5"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_6",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_6"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_baku",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_baku"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_honolulu",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_honolulu"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_bujumbura",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_bujumbura"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_jakarta",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_jakarta"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_north_dakota_beulah",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_north_dakota_beulah"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_tashkent",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_tashkent"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_maceio",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_maceio"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_caracas",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_caracas"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_galapagos",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_galapagos"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_tokyo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_tokyo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_5",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_5"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_yakutat",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_yakutat"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_paris",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_paris"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_glace_bay",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_glace_bay"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_muscat",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_muscat"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus6",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus6"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_cst6cdt",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_cst6cdt"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_mexico_city",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_mexico_city"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_ust_nera",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_ust_nera"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_bogota",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_bogota"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_kiev",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_kiev"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_iqaluit",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_iqaluit"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_rio_branco",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_rio_branco"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_yellowknife",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_yellowknife"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_danmarkshavn",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_danmarkshavn"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_douala",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_douala"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_mayotte",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_mayotte"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_juneau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_juneau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_port_au_prince",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_port_au_prince"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_campo_grande",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_campo_grande"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_zaporozhye",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_zaporozhye"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_christmas",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_christmas"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_8",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_8"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_midway",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_midway"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_pyongyang",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_pyongyang"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_freetown",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_freetown"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus3",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus3"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_tarawa",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_tarawa"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_14",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_14"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_copenhagen",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_copenhagen"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_met",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_met"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_gibraltar",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_gibraltar"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_jan_mayen",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_jan_mayen"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_brussels",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_brussels"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_scoresbysund",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_scoresbysund"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_comoro",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_comoro"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_urumqi",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_urumqi"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_bahia_banderas",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_bahia_banderas"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_north_dakota_center",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_north_dakota_center"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_libreville",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_libreville"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_dili",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_dili"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_7",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_7"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus4",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus4"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_vatican",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_vatican"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_toronto",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_toronto"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_belfast",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_belfast"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_bahia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_bahia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_nicosia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_nicosia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_ensenada",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_ensenada"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_stockholm",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_stockholm"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_lisbon",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_lisbon"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_vostok",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_vostok"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_la_rioja",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_la_rioja"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_whitehorse",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_whitehorse"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_perth",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_perth"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_lord_howe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_lord_howe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_bratislava",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_bratislava"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_st_kitts",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_st_kitts"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_2",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_2"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_baghdad",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_baghdad"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_fiji",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_fiji"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_south_georgia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_south_georgia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus1",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus1"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_cairo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_cairo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_boise",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_boise"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_shanghai",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_shanghai"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_cocos",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_cocos"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_12",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_12"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_banjul",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_banjul"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_cayenne",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_cayenne"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_1",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_1"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_tiraspol",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_tiraspol"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kathmandu",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kathmandu"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_grenada",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_grenada"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_ojinaga",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_ojinaga"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_marengo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_marengo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_singapore",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_singapore"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_funafuti",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_funafuti"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_jerusalem",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_jerusalem"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_auckland",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_auckland"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmtplus2",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmtplus2"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_13",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_13"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_bamako",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_bamako"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_troll",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_troll"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_malta",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_malta"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_ashgabat",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_ashgabat"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_santa_isabel",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_santa_isabel"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_mst",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_mst"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kuwait",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kuwait"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_4",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_4"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_bishkek",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_bishkek"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_marigot",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_marigot"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_panama",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_panama"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_yerevan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_yerevan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_chatham",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_chatham"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_antananarivo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_antananarivo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_10",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_10"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_belize",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_belize"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_inuvik",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_inuvik"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_chuuk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_chuuk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_asmera",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_asmera"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_nome",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_nome"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_3",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_3"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_lubumbashi",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_lubumbashi"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_fortaleza",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_fortaleza"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_pangnirtung",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_pangnirtung"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_santiago",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_santiago"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_eirunepe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_eirunepe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_cordoba",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_cordoba"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_ceuta",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_ceuta"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_merida",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_merida"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_port_moresby",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_port_moresby"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_ulaanbaatar",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_ulaanbaatar"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_kralendijk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_kralendijk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_cet",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_cet"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_chita",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_chita"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_riyadh",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_riyadh"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_south_pole",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_south_pole"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_sofia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_sofia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_mahe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_mahe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_magadan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_magadan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_gmt_11",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_gmt_11"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_atikokan",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_atikokan"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_palau",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_palau"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_conakry",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_conakry"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_coral_harbour",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_coral_harbour"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_harare",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_harare"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_denver",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_denver"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_port_of_spain",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_port_of_spain"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_atlantic_reykjavik",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_atlantic_reykjavik"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_kaliningrad",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_kaliningrad"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_australia_melbourne",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_australia_melbourne"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_nipigon",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_nipigon"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_gaza",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_gaza"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_noumea",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_noumea"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_mariehamn",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_mariehamn"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_pacific_easter",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_pacific_easter"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_almaty",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_almaty"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_rio_gallegos",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_rio_gallegos"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_aruba",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_aruba"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_budapest",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_budapest"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_arctic_longyearbyen",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_arctic_longyearbyen"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_hebron",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_hebron"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_eet",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_eet"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_rosario",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_rosario"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_algiers",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_algiers"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_hong_kong",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_hong_kong"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_omsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_omsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_comodrivadavia",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_comodrivadavia"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_timbuktu",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_timbuktu"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_casablanca",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_casablanca"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_rome",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_rome"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_windhoek",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_windhoek"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_st_vincent",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_st_vincent"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_st_johns",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_st_johns"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_oslo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_oslo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_africa_malabo",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_africa_malabo"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_dominica",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_dominica"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_prague",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_prague"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_argentina_catamarca",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_argentina_catamarca"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_aqtobe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_aqtobe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_novosibirsk",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_novosibirsk"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_skopje",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_skopje"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_edmonton",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_edmonton"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_guadeloupe",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_guadeloupe"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_chagos",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_chagos"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_antarctica_macquarie",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_antarctica_macquarie"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_indiana_tell_city",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_indiana_tell_city"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_recife",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_recife"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_kamchatka",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_kamchatka"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_indian_mauritius",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_indian_mauritius"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_curacao",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_curacao"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_london",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_london"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_vaduz",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_vaduz"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_bahrain",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_bahrain"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_america_manaus",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_america_manaus"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_asia_pontianak",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_asia_pontianak"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_etc_utc",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_etc_utc"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/raw/joda_europe_jersey",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.1/res/raw/joda_europe_jersey"
+    }
+]

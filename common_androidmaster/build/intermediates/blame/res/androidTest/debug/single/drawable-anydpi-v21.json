@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_finish.xml",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-anydpi-v21/ic_finish.xml"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_next.xml",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-anydpi-v21/ic_next.xml"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_previous.xml",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-anydpi-v21/ic_previous.xml"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_skip.xml",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-anydpi-v21/ic_skip.xml"
+    }
+]

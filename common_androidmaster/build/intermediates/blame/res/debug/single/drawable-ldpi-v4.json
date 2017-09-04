@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_next.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-ldpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_skip.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-ldpi-v4/ic_skip.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_finish.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-ldpi-v4/ic_finish.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_previous.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.5/res/drawable-ldpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/korneliussendy/AndroidStudioProjects/MLibs/common_androidmaster/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    }
+]

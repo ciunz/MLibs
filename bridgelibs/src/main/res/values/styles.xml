@@ -1,0 +1,207 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/RTE_ThemeLight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorButtonNormal">@color/textBlue</item>
+        <!--<item name="android:fitsSystemWindows">true</item>-->
+    </style>
+
+    <style name="BridgeTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/text</item>
+        <item name="android:textColorSecondary">@color/text</item>
+        <item name="actionMenuTextColor">@color/White</item>
+    </style>
+
+    <style name="CustomActionBarTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/tbs_gray</item>
+        <item name="colorPrimaryDark">@color/Black</item>
+        <item name="colorAccent">@color/Black</item>
+    </style>
+
+    <style name="text" parent="android:Widget.TextView">
+        <item name="fontPath">Myriad Pro Regular.ttf</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textSize">16sp</item>
+        <!--<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>-->
+        <!--<item name="android:autoLink">all</item>-->
+        <!--<item name="android:textColorLink">@color/CadetBlue</item>-->
+        <!--<item name="android:textColor">@color/Black</item>-->
+    </style>
+
+    <style name="textItalic" parent="text">
+        <item name="fontPath">Myriad Pro Italic.ttf</item>
+    </style>
+
+    <style name="textBold" parent="text">
+        <item name="android:textStyle">bold</item>
+        <item name="fontPath">Myriad Pro Bold.ttf</item>
+    </style>
+
+    <style name="textSmall" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="fontPath">Myriad Pro Regular.ttf</item>
+        <!--<item name="android:textAppearance">?android:attr/textAppearanceSmall</item>-->
+        <item name="android:textColor">@color/textSecondary</item>
+    </style>
+
+    <style name="textSmallItalic" parent="textSmall">
+        <item name="fontPath">Myriad Pro Italic.ttf</item>
+    </style>
+
+    <style name="textTitle" parent="text">
+        <item name="android:textColor">@color/textSecondary</item>
+    </style>
+
+    <style name="textTitleLarge" parent="textTitle">
+        <!--<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>-->
+        <item name="android:textSize">28sp</item>
+        <item name="fontPath">Quicksand-Regular.otf</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="textSection" parent="text">
+        <item name="android:background">@color/bg</item>
+        <item name="android:textColor">@color/textSecondary</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/margin_big</item>
+        <item name="android:paddingBottom">@dimen/margin_big</item>
+    </style>
+
+    <style name="textSectionBold" parent="textSection">
+        <item name="android:textStyle">bold</item>
+        <item name="fontPath">Myriad Pro Bold.ttf</item>
+    </style>
+
+    <style name="sectionContent">
+        <item name="android:background">@color/White</item>
+        <item name="android:paddingTop">@dimen/margin_big</item>
+        <item name="android:paddingBottom">@dimen/margin_big</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="edt" parent="Widget.AppCompat.EditText">
+        <item name="fontPath">Myriad Pro Regular.ttf</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:minHeight">@dimen/min_size_small</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:inputType">textCapSentences</item>
+        <!--<item name="android:textColorHint">@color/divider</item>-->
+    </style>
+
+    <style name="edtLight" parent="edt">
+        <item name="fontPath">Myriad Pro Regular.ttf</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textColorHint">@color/divider</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+
+    <style name="btn" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/bg_selectable</item>
+        <item name="android:minHeight">@dimen/min_size_small</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <!--<item name="fontPath">Quicksand-Regular.otf</item>-->
+    </style>
+
+    <style name="btnLight" parent="btn">
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="btnRed" parent="btn">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@drawable/btn_border_red_text_xml</item>
+        <item name="android:background">@drawable/btn_border_red_xml</item>
+    </style>
+
+    <style name="btnRedFull" parent="btn">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:minHeight">@dimen/min_size</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:background">@drawable/btn_red_xml</item>
+    </style>
+
+    <style name="btnBlue" parent="btn">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@drawable/btn_border_blue_text_xml</item>
+        <item name="android:background">@drawable/btn_border_blue_xml</item>
+    </style>
+
+    <style name="btnGreen" parent="btn">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@drawable/btn_border_green_text_xml</item>
+        <item name="android:background">@drawable/btn_border_green_xml</item>
+    </style>
+
+    <style name="btnGreenBold" parent="btnGreen">
+        <item name="fontPath">Myriad Pro Bold.ttf</item>
+    </style>
+
+    <style name="btnBlueFull" parent="btn">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:minHeight">@dimen/min_size</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:background">@drawable/btn_blue_xml</item>
+    </style>
+
+    <style name="btnBlueDarkFull" parent="btnBlueFull">
+        <item name="android:background">@drawable/btn_blue_dark_xml</item>
+    </style>
+
+    <style name="btnLightblue" parent="btn">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@drawable/btn_border_lightblue_text_xml</item>
+        <item name="android:background">@drawable/btn_border_lightblue_xml</item>
+    </style>
+
+    <style name="btn_transparent_bold" parent="btn_transparent">
+        <item name="fontPath">Myriad Pro Bold.ttf</item>
+    </style>
+
+    <style name="divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider</item>
+        <item name="android:layout_marginTop">@dimen/margin_big</item>
+        <item name="android:layout_marginBottom">@dimen/margin_big</item>
+    </style>
+
+    <style name="dividerMargin" parent="divider">
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginTop">@dimen/margin_big_x</item>
+        <item name="android:layout_marginBottom">@dimen/margin_big_x</item>
+    </style>
+
+    <style name="menu_labels_style" parent="text">
+        <item name="android:gravity">right</item>
+    </style>
+
+    <style name="sv">
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+
+    <style name="cardview" parent="CardView">
+        <item name="cardCornerRadius">3dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+</resources>

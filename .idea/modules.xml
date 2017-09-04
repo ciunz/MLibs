@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MLibs.iml" filepath="$PROJECT_DIR$/MLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RTEditor/RTEditor.iml" filepath="$PROJECT_DIR$/RTEditor/RTEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RTEditor-Toolbar/RTEditor-Toolbar.iml" filepath="$PROJECT_DIR$/RTEditor-Toolbar/RTEditor-Toolbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appeardemo/appeardemo.iml" filepath="$PROJECT_DIR$/appeardemo/appeardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridgelibs/bridgelibs.iml" filepath="$PROJECT_DIR$/bridgelibs/bridgelibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_androidmaster/common_androidmaster.iml" filepath="$PROJECT_DIR$/common_androidmaster/common_androidmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wavecompat/wavecompat.iml" filepath="$PROJECT_DIR$/wavecompat/wavecompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing.iml" />
+    </modules>
+  </component>
+</project>
